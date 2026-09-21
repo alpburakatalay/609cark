@@ -4,7 +4,7 @@ const SES_SURESI = 5860;
 const ogrenciler = [
     "Alp Burak Atalay", "Arda Türkgenç", "Atlas Erk Atilla", "Baybars Ayhan",
     "Cihangir Koca", "Ece Kartal", "Elisa Öztürk",
-    "Emir Alp Keskin", "Eylül Dinçer", "Hera Deniz Koca", "İbrahim Eray Öcal",
+    "Emir Alp Keskin", "Eylül Dinçer", "Hera Deniz Koca", "İbrahim Eray Öcal", 
     "Mete Başlarlı","Sevil Ela Zeybek", "Tibet Özenç", "Tuna Uğurlu", "Vera Atay",
     "Yaren Gözübüyük", "Yiğithan Yiğit", "Yunus Emre Çiğdem", "Yusuf Ziya Aytaç",
     "Zeynep Asya Çakır", "Zeynep Bölükbaşı", "Emin Çetin"
