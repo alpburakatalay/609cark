@@ -3,43 +3,43 @@ const SES_SURESI = 5860;
 
 const ogrenciler = [
     "Alp Burak Atalay", "Arda Türkgenç", "Atlas Erk Atilla", "Baybars Ayhan",
-    "Bulut Ege Gümüştekin", "Cihangir Koca", "Ece Kartal", "Elisa Öztürk",
+    "Cihangir Koca", "Ece Kartal", "Elisa Öztürk",
     "Emir Alp Keskin", "Eylül Dinçer", "Hera Deniz Koca", "İbrahim Eray Öcal",
-    "Sevil Ela Zeybek", "Tibet Özenç", "Tuna Uğurlu", "Vera Atay",
+    "Mete Başlarlı","Sevil Ela Zeybek", "Tibet Özenç", "Tuna Uğurlu", "Vera Atay",
     "Yaren Gözübüyük", "Yiğithan Yiğit", "Yunus Emre Çiğdem", "Yusuf Ziya Aytaç",
     "Zeynep Asya Çakır", "Zeynep Bölükbaşı", "Emin Çetin"
 ];
 
 const studentDescriptions = {
-    "Alp Burak Atalay":     "En Elektriği",
-    "Arda Türkgenç":        "En Sineği",
-    "Atlas Erk Atilla":     "En Kutsal Ambuliansı",
-    "Baybars Ayhan":        "En Eskrimcisi",
-    "Bulut Ege Gümüştekin": "En Büyüğü",
-    "Cihangir Koca":        "En Chief Growth Officerı",
-    "Ece Kartal":           "En Nagi",
-    "Elisa Öztürk":         "Kenan Yıldız'ın Eşi",
-    "Emir Alp Keskin":      "En Abdülkerim Bardakçı",
-    "Eylül Dinçer":         "En Kanao",
-    "Hera Deniz Koca":      "En Balecisi",
-    "İbrahim Eray Öcal":    "En Sessizi",
-    "Sevil Ela Zeybek":     "En Stitch",
-    "Tibet Özenç":          "En Basketbolu",
-    "Tuna Uğurlu":          "En Kitap Kurdu",
-    "Vera Atay":            "En Koreli",
-    "Yaren Gözübüyük":      "En Arkadaş Canlısı",
-    "Yiğithan Yiğit":       "En Fenerbahçeli",
-    "Yunus Emre Çiğdem":    "En Pozitifi",
-    "Yusuf Ziya Aytaç":     "En Boynunu Tutanı",
-    "Zeynep Asya Çakır":    "En Kuromisi",
-    "Zeynep Bölükbaşı":     "Barış Alper'in Eşi",
-    "Emin Çetin":           "En Orkun Kökçü"
+    "Alp Burak Atalay":     "Geçici olarak kaldırıldı.",
+    "Arda Türkgenç":        "Geçici olarak kaldırıldı.",
+    "Atlas Erk Atilla":     "Geçici olarak kaldırıldı.",
+    "Baybars Ayhan":        "Geçici olarak kaldırıldı.",
+    "Cihangir Koca":        "Geçici olarak kaldırıldı.",
+    "Ece Kartal":           "Geçici olarak kaldırıldı.",
+    "Elisa Öztürk":         "Geçici olarak kaldırıldı.",
+    "Emir Alp Keskin":      "Geçici olarak kaldırıldı.",
+    "Eylül Dinçer":         "Geçici olarak kaldırıldı.",
+    "Hera Deniz Koca":      "Geçici olarak kaldırıldı.",
+    "İbrahim Eray Öcal":    "Geçici olarak kaldırıldı.",
+    "Mete Başlarlı":        "Geçici olarak kaldırıldı.",
+    "Sevil Ela Zeybek":     "Geçici olarak kaldırıldı.",
+    "Tibet Özenç":          "Geçici olarak kaldırıldı.",
+    "Tuna Uğurlu":          "Geçici olarak kaldırıldı.",
+    "Vera Atay":            "Geçici olarak kaldırıldı.",
+    "Yaren Gözübüyük":      "Geçici olarak kaldırıldı.",
+    "Yiğithan Yiğit":       "Geçici olarak kaldırıldı.",
+    "Yunus Emre Çiğdem":    "Geçici olarak kaldırıldı.",
+    "Yusuf Ziya Aytaç":     "Geçici olarak kaldırıldı.",
+    "Zeynep Asya Çakır":    "Geçici olarak kaldırıldı.",
+    "Zeynep Bölükbaşı":     "Geçici olarak kaldırıldı.",
+    "Emin Çetin":           "Geçici olarak kaldırıldı."
 };
 
 const mathSymbols = [
     '∑', '∫', '∞', 'π', '√', '∀', '∃', 'σ', '∏', '∩',
     '∪', '≡', '≠', '≥', '≤', '⊗', '≈', '∇', '∂', 'α',
-    'β', 'x', 'y', 'z', '=', '+', '-', '1', '2', '3', '4', '5'
+    'β', 'x', 'y', 'z', '=', '+', '-', '1', '2', '3', '卍', '5'
 ];
 
 const avatarColors = [
