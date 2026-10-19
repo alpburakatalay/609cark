@@ -12,7 +12,7 @@ const ogrenciler = [
 
 const studentDescriptions = {
     "Alp Burak Atalay":     "Geçici olarak kaldırıldı.",
-    "Arda Türkgenç":        "Geçici olarak kaldırıldı.",
+    "Arda Türkgenç":        "Özür dileriz ancak mecburi olarak kaldırıldı.",
     "Atlas Erk Atilla":     "Geçici olarak kaldırıldı.",
     "Baybars Ayhan":        "Geçici olarak kaldırıldı.",
     "Cihangir Koca":        "Geçici olarak kaldırıldı.",
